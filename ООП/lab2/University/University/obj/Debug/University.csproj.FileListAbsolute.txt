@@ -1,0 +1,11 @@
+C:\Users\Avdey\OneDrive\Рабочий стол\2-2\ООП\lab2\University\University\bin\Debug\University.exe.config
+C:\Users\Avdey\OneDrive\Рабочий стол\2-2\ООП\lab2\University\University\bin\Debug\University.exe
+C:\Users\Avdey\OneDrive\Рабочий стол\2-2\ООП\lab2\University\University\bin\Debug\University.pdb
+C:\Users\Avdey\OneDrive\Рабочий стол\2-2\ООП\lab2\University\University\obj\Debug\University.csproj.AssemblyReference.cache
+C:\Users\Avdey\OneDrive\Рабочий стол\2-2\ООП\lab2\University\University\obj\Debug\University.Adres.resources
+C:\Users\Avdey\OneDrive\Рабочий стол\2-2\ООП\lab2\University\University\obj\Debug\University.Form1.resources
+C:\Users\Avdey\OneDrive\Рабочий стол\2-2\ООП\lab2\University\University\obj\Debug\University.Properties.Resources.resources
+C:\Users\Avdey\OneDrive\Рабочий стол\2-2\ООП\lab2\University\University\obj\Debug\University.csproj.GenerateResource.cache
+C:\Users\Avdey\OneDrive\Рабочий стол\2-2\ООП\lab2\University\University\obj\Debug\University.csproj.CoreCompileInputs.cache
+C:\Users\Avdey\OneDrive\Рабочий стол\2-2\ООП\lab2\University\University\obj\Debug\University.exe
+C:\Users\Avdey\OneDrive\Рабочий стол\2-2\ООП\lab2\University\University\obj\Debug\University.pdb

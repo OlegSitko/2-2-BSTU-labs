@@ -1,0 +1,30 @@
+C:\Users\Avdey\OneDrive\Рабочий стол\2-2\ООП\lab1\lab1\bin\Debug\lab1.exe.config
+C:\Users\Avdey\OneDrive\Рабочий стол\2-2\ООП\lab1\lab1\bin\Debug\lab1.exe
+C:\Users\Avdey\OneDrive\Рабочий стол\2-2\ООП\lab1\lab1\bin\Debug\lab1.pdb
+C:\Users\Avdey\OneDrive\Рабочий стол\2-2\ООП\lab1\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
+C:\Users\Avdey\OneDrive\Рабочий стол\2-2\ООП\lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+C:\Users\Avdey\OneDrive\Рабочий стол\2-2\ООП\lab1\lab1\obj\Debug\lab1.csproj.GenerateResource.cache
+C:\Users\Avdey\OneDrive\Рабочий стол\2-2\ООП\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\Avdey\OneDrive\Рабочий стол\2-2\ООП\lab1\lab1\obj\Debug\lab1.exe
+C:\Users\Avdey\OneDrive\Рабочий стол\2-2\ООП\lab1\lab1\obj\Debug\lab1.pdb
+C:\Users\Avdey\OneDrive\Рабочий стол\2-2\ООП\lab1\lab1\obj\Debug\lab1.Calculator.resources
+C:\Users\AVDEY\Desktop\2-2\ООП\lab1\lab1\bin\Debug\lab1.exe.config
+C:\Users\AVDEY\Desktop\2-2\ООП\lab1\lab1\bin\Debug\lab1.exe
+C:\Users\AVDEY\Desktop\2-2\ООП\lab1\lab1\bin\Debug\lab1.pdb
+C:\Users\AVDEY\Desktop\2-2\ООП\lab1\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
+C:\Users\AVDEY\Desktop\2-2\ООП\lab1\lab1\obj\Debug\lab1.Calculator.resources
+C:\Users\AVDEY\Desktop\2-2\ООП\lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+C:\Users\AVDEY\Desktop\2-2\ООП\lab1\lab1\obj\Debug\lab1.csproj.GenerateResource.cache
+C:\Users\AVDEY\Desktop\2-2\ООП\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\AVDEY\Desktop\2-2\ООП\lab1\lab1\obj\Debug\lab1.exe
+C:\Users\AVDEY\Desktop\2-2\ООП\lab1\lab1\obj\Debug\lab1.pdb
+C:\Users\Avdey\OneDrive\Рабочий стол\lab1\lab1\bin\Debug\lab1.exe.config
+C:\Users\Avdey\OneDrive\Рабочий стол\lab1\lab1\bin\Debug\lab1.exe
+C:\Users\Avdey\OneDrive\Рабочий стол\lab1\lab1\bin\Debug\lab1.pdb
+C:\Users\Avdey\OneDrive\Рабочий стол\lab1\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
+C:\Users\Avdey\OneDrive\Рабочий стол\lab1\lab1\obj\Debug\lab1.Calculator.resources
+C:\Users\Avdey\OneDrive\Рабочий стол\lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+C:\Users\Avdey\OneDrive\Рабочий стол\lab1\lab1\obj\Debug\lab1.csproj.GenerateResource.cache
+C:\Users\Avdey\OneDrive\Рабочий стол\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\Avdey\OneDrive\Рабочий стол\lab1\lab1\obj\Debug\lab1.exe
+C:\Users\Avdey\OneDrive\Рабочий стол\lab1\lab1\obj\Debug\lab1.pdb

@@ -1,0 +1,64 @@
+D:\Abykak\ООП 2\WindowsForms2\WindowsForms2\bin\Debug\netcoreapp3.1\WindowsForms2.exe
+D:\Abykak\ООП 2\WindowsForms2\WindowsForms2\bin\Debug\netcoreapp3.1\WindowsForms2.deps.json
+D:\Abykak\ООП 2\WindowsForms2\WindowsForms2\bin\Debug\netcoreapp3.1\WindowsForms2.runtimeconfig.json
+D:\Abykak\ООП 2\WindowsForms2\WindowsForms2\bin\Debug\netcoreapp3.1\WindowsForms2.runtimeconfig.dev.json
+D:\Abykak\ООП 2\WindowsForms2\WindowsForms2\bin\Debug\netcoreapp3.1\WindowsForms2.dll
+D:\Abykak\ООП 2\WindowsForms2\WindowsForms2\bin\Debug\netcoreapp3.1\WindowsForms2.pdb
+D:\Abykak\ООП 2\WindowsForms2\WindowsForms2\obj\Debug\netcoreapp3.1\WindowsForms2.csproj.AssemblyReference.cache
+D:\Abykak\ООП 2\WindowsForms2\WindowsForms2\obj\Debug\netcoreapp3.1\WindowsForms2.Form1.resources
+D:\Abykak\ООП 2\WindowsForms2\WindowsForms2\obj\Debug\netcoreapp3.1\WindowsForms2.csproj.GenerateResource.cache
+D:\Abykak\ООП 2\WindowsForms2\WindowsForms2\obj\Debug\netcoreapp3.1\WindowsForms2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abykak\ООП 2\WindowsForms2\WindowsForms2\obj\Debug\netcoreapp3.1\WindowsForms2.AssemblyInfoInputs.cache
+D:\Abykak\ООП 2\WindowsForms2\WindowsForms2\obj\Debug\netcoreapp3.1\WindowsForms2.AssemblyInfo.cs
+D:\Abykak\ООП 2\WindowsForms2\WindowsForms2\obj\Debug\netcoreapp3.1\WindowsForms2.csproj.CoreCompileInputs.cache
+D:\Abykak\ООП 2\WindowsForms2\WindowsForms2\obj\Debug\netcoreapp3.1\WindowsForms2.dll
+D:\Abykak\ООП 2\WindowsForms2\WindowsForms2\obj\Debug\netcoreapp3.1\WindowsForms2.pdb
+D:\Abykak\ООП 2\WindowsForms2\WindowsForms2\obj\Debug\netcoreapp3.1\WindowsForms2.genruntimeconfig.cache
+C:\Work\ВУЗ\Лабораторные\ООП\ООП Windows Forms 2\WindowsForms2\bin\Debug\netcoreapp3.1\WindowsForms2.exe
+C:\Work\ВУЗ\Лабораторные\ООП\ООП Windows Forms 2\WindowsForms2\bin\Debug\netcoreapp3.1\WindowsForms2.deps.json
+C:\Work\ВУЗ\Лабораторные\ООП\ООП Windows Forms 2\WindowsForms2\bin\Debug\netcoreapp3.1\WindowsForms2.runtimeconfig.json
+C:\Work\ВУЗ\Лабораторные\ООП\ООП Windows Forms 2\WindowsForms2\bin\Debug\netcoreapp3.1\WindowsForms2.runtimeconfig.dev.json
+C:\Work\ВУЗ\Лабораторные\ООП\ООП Windows Forms 2\WindowsForms2\bin\Debug\netcoreapp3.1\WindowsForms2.dll
+C:\Work\ВУЗ\Лабораторные\ООП\ООП Windows Forms 2\WindowsForms2\bin\Debug\netcoreapp3.1\WindowsForms2.pdb
+C:\Work\ВУЗ\Лабораторные\ООП\ООП Windows Forms 2\WindowsForms2\obj\Debug\netcoreapp3.1\WindowsForms2.csproj.AssemblyReference.cache
+C:\Work\ВУЗ\Лабораторные\ООП\ООП Windows Forms 2\WindowsForms2\obj\Debug\netcoreapp3.1\WindowsForms2.Form1.resources
+C:\Work\ВУЗ\Лабораторные\ООП\ООП Windows Forms 2\WindowsForms2\obj\Debug\netcoreapp3.1\WindowsForms2.csproj.GenerateResource.cache
+C:\Work\ВУЗ\Лабораторные\ООП\ООП Windows Forms 2\WindowsForms2\obj\Debug\netcoreapp3.1\WindowsForms2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\ВУЗ\Лабораторные\ООП\ООП Windows Forms 2\WindowsForms2\obj\Debug\netcoreapp3.1\WindowsForms2.AssemblyInfoInputs.cache
+C:\Work\ВУЗ\Лабораторные\ООП\ООП Windows Forms 2\WindowsForms2\obj\Debug\netcoreapp3.1\WindowsForms2.AssemblyInfo.cs
+C:\Work\ВУЗ\Лабораторные\ООП\ООП Windows Forms 2\WindowsForms2\obj\Debug\netcoreapp3.1\WindowsForms2.csproj.CoreCompileInputs.cache
+C:\Work\ВУЗ\Лабораторные\ООП\ООП Windows Forms 2\WindowsForms2\obj\Debug\netcoreapp3.1\WindowsForms2.dll
+C:\Work\ВУЗ\Лабораторные\ООП\ООП Windows Forms 2\WindowsForms2\obj\Debug\netcoreapp3.1\WindowsForms2.pdb
+C:\Work\ВУЗ\Лабораторные\ООП\ООП Windows Forms 2\WindowsForms2\obj\Debug\netcoreapp3.1\WindowsForms2.genruntimeconfig.cache
+C:\Users\Professional\Downloads\ООП Windows Forms 2\WindowsForms2\obj\Debug\netcoreapp3.1\WindowsForms2.csproj.AssemblyReference.cache
+C:\Users\Professional\Downloads\ООП Windows Forms 2\WindowsForms2\obj\Debug\netcoreapp3.1\WindowsForms2.Form1.resources
+C:\Users\Professional\Downloads\ООП Windows Forms 2\WindowsForms2\obj\Debug\netcoreapp3.1\WindowsForms2.csproj.GenerateResource.cache
+C:\Users\Professional\Downloads\ООП Windows Forms 2\WindowsForms2\obj\Debug\netcoreapp3.1\WindowsForms2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\Downloads\ООП Windows Forms 2\WindowsForms2\obj\Debug\netcoreapp3.1\WindowsForms2.AssemblyInfoInputs.cache
+C:\Users\Professional\Downloads\ООП Windows Forms 2\WindowsForms2\obj\Debug\netcoreapp3.1\WindowsForms2.AssemblyInfo.cs
+C:\Users\Professional\Downloads\ООП Windows Forms 2\WindowsForms2\obj\Debug\netcoreapp3.1\WindowsForms2.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Downloads\ООП Windows Forms 2\WindowsForms2\obj\Debug\netcoreapp3.1\WindowsForms2.dll
+C:\Users\Professional\Downloads\ООП Windows Forms 2\WindowsForms2\obj\Debug\netcoreapp3.1\WindowsForms2.pdb
+C:\Users\Professional\Downloads\ООП Windows Forms 2\WindowsForms2\bin\Debug\netcoreapp3.1\WindowsForms2.exe
+C:\Users\Professional\Downloads\ООП Windows Forms 2\WindowsForms2\bin\Debug\netcoreapp3.1\WindowsForms2.deps.json
+C:\Users\Professional\Downloads\ООП Windows Forms 2\WindowsForms2\bin\Debug\netcoreapp3.1\WindowsForms2.runtimeconfig.json
+C:\Users\Professional\Downloads\ООП Windows Forms 2\WindowsForms2\bin\Debug\netcoreapp3.1\WindowsForms2.runtimeconfig.dev.json
+C:\Users\Professional\Downloads\ООП Windows Forms 2\WindowsForms2\bin\Debug\netcoreapp3.1\WindowsForms2.dll
+C:\Users\Professional\Downloads\ООП Windows Forms 2\WindowsForms2\bin\Debug\netcoreapp3.1\WindowsForms2.pdb
+C:\Users\Professional\Downloads\ООП Windows Forms 2\WindowsForms2\obj\Debug\netcoreapp3.1\WindowsForms2.genruntimeconfig.cache
+C:\Users\Avdey\OneDrive\Рабочий стол\2-2\ООП\lab2\ООП Windows Forms 2\WindowsForms2\bin\Debug\netcoreapp3.1\WindowsForms2.exe
+C:\Users\Avdey\OneDrive\Рабочий стол\2-2\ООП\lab2\ООП Windows Forms 2\WindowsForms2\bin\Debug\netcoreapp3.1\WindowsForms2.deps.json
+C:\Users\Avdey\OneDrive\Рабочий стол\2-2\ООП\lab2\ООП Windows Forms 2\WindowsForms2\bin\Debug\netcoreapp3.1\WindowsForms2.runtimeconfig.json
+C:\Users\Avdey\OneDrive\Рабочий стол\2-2\ООП\lab2\ООП Windows Forms 2\WindowsForms2\bin\Debug\netcoreapp3.1\WindowsForms2.runtimeconfig.dev.json
+C:\Users\Avdey\OneDrive\Рабочий стол\2-2\ООП\lab2\ООП Windows Forms 2\WindowsForms2\bin\Debug\netcoreapp3.1\WindowsForms2.dll
+C:\Users\Avdey\OneDrive\Рабочий стол\2-2\ООП\lab2\ООП Windows Forms 2\WindowsForms2\bin\Debug\netcoreapp3.1\WindowsForms2.pdb
+C:\Users\Avdey\OneDrive\Рабочий стол\2-2\ООП\lab2\ООП Windows Forms 2\WindowsForms2\obj\Debug\netcoreapp3.1\WindowsForms2.csproj.AssemblyReference.cache
+C:\Users\Avdey\OneDrive\Рабочий стол\2-2\ООП\lab2\ООП Windows Forms 2\WindowsForms2\obj\Debug\netcoreapp3.1\WindowsForms2.Form1.resources
+C:\Users\Avdey\OneDrive\Рабочий стол\2-2\ООП\lab2\ООП Windows Forms 2\WindowsForms2\obj\Debug\netcoreapp3.1\WindowsForms2.csproj.GenerateResource.cache
+C:\Users\Avdey\OneDrive\Рабочий стол\2-2\ООП\lab2\ООП Windows Forms 2\WindowsForms2\obj\Debug\netcoreapp3.1\WindowsForms2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Avdey\OneDrive\Рабочий стол\2-2\ООП\lab2\ООП Windows Forms 2\WindowsForms2\obj\Debug\netcoreapp3.1\WindowsForms2.AssemblyInfoInputs.cache
+C:\Users\Avdey\OneDrive\Рабочий стол\2-2\ООП\lab2\ООП Windows Forms 2\WindowsForms2\obj\Debug\netcoreapp3.1\WindowsForms2.AssemblyInfo.cs
+C:\Users\Avdey\OneDrive\Рабочий стол\2-2\ООП\lab2\ООП Windows Forms 2\WindowsForms2\obj\Debug\netcoreapp3.1\WindowsForms2.csproj.CoreCompileInputs.cache
+C:\Users\Avdey\OneDrive\Рабочий стол\2-2\ООП\lab2\ООП Windows Forms 2\WindowsForms2\obj\Debug\netcoreapp3.1\WindowsForms2.dll
+C:\Users\Avdey\OneDrive\Рабочий стол\2-2\ООП\lab2\ООП Windows Forms 2\WindowsForms2\obj\Debug\netcoreapp3.1\WindowsForms2.pdb
+C:\Users\Avdey\OneDrive\Рабочий стол\2-2\ООП\lab2\ООП Windows Forms 2\WindowsForms2\obj\Debug\netcoreapp3.1\WindowsForms2.genruntimeconfig.cache

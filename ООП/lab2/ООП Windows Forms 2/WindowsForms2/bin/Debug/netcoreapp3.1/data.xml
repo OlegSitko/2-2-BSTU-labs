@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Student xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <fullName>Деменций</fullName>
+  <age>20</age>
+  <speciality />
+  <birthDate>1994-03-11T20:18:11</birthDate>
+  <course>2</course>
+  <group>0</group>
+  <averageMark>7.5</averageMark>
+  <gender>Male</gender>
+  <address>
+    <city>3</city>
+    <index>6462462</index>
+    <street>Ленина</street>
+    <house>32</house>
+    <flat>16</flat>
+  </address>
+</Student>
